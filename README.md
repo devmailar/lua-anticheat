@@ -1,4 +1,4 @@
-# M_Anticheat
+# FiveM Anticheat
 
 ## Faq
 vRP FiveM Anticheat.
